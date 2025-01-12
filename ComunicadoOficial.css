@@ -1,0 +1,67 @@
+#arriba{
+    border-bottom: 1.5px solid gray;
+    height: 100px;
+    width: 100%;
+}
+#logo{
+    width: 80px;
+    height: 80px;
+    margin-left: 100px auto;
+    padding-left: 3%;
+    padding-top: 0.4%;
+    transition: all 0.5s;
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: #331260;
+    width: 858px;
+    margin: 0px auto;
+    padding-left: 45px;
+    position:relative;
+}
+footer{
+    margin-top: 5%;
+    background: black;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding-top: 100px;
+    margin-bottom: 0px auto;
+}
+#marcoImagen{
+    width: 858px;
+    height: 701px;
+    margin: 0px auto;
+}
+img{
+    height: 701px;
+    width: 858px; 
+    border-radius: 2%;
+}
+p{
+font-family: Arial, Helvetica, RMNeue;
+color: #5E6A83;
+font-size: 12px;
+margin-left: 10px;
+}
+#firma{
+    margin: 0px auto;
+    width: 858px;
+}
+#texto{
+    text-align: justify;
+    padding-top: 0.2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5E6A83;
+    margin: 0px auto;
+    width: 1100px;
+    font-size: 30px;
+}
+#aqui{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 58, 58);
+}
+#logo:hover{
+    transform: scale(1.05);
+}
